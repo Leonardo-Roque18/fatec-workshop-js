@@ -7,4 +7,4 @@ function somar() {
 
 console.log(somar());
 
-//2º DSM
+//2º DSM - Leonardo Roque Delandrea
